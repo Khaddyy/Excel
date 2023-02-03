@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khaddyy
 - 👀 I’m interested in data analytics 
 - 🌱 I’m currently learning statistical correlation in python 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on low-code/python for analysis
 - 📫 How to reach me @monilolakhadhiee@gmail.com 
 
 <!---
